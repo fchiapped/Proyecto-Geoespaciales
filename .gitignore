@@ -1,4 +1,11 @@
-Datos/
-Datos-2024/
-Tabla de Viajes/
+# Datos pesados que se descargan aparte
 gtfs_transitland/
+Datos/
+
+# Credenciales
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
